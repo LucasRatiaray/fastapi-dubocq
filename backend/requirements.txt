@@ -1,0 +1,11 @@
+# backend/requirements.txt
+
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+alembic
+psycopg2-binary
+pydantic
+passlib[bcrypt]
+python-jose[cryptography]
